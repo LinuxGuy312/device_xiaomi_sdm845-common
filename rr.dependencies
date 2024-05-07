@@ -1,6 +1,6 @@
 [
   {
-    "repository": "PainKiller3/kernel_xiaomi_sdm845",
+    "repository": "diphons/D8G_Kernel",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "ten"
   },
@@ -11,7 +11,7 @@
   },
   {
     "repository": "kdrag0n/proton-clang", 
-    "target_path": "prebuilts/clang/host/linux-x86/clang-12", 
+    "target_path": "prebuilts/clang/host/linux-x86/clang-13", 
     "branch": "master"
   }
 ]
